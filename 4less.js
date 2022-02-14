@@ -24,7 +24,6 @@ console.log('str ' / 99);
 console.log(999 / false);
 
 //conversion
-
 let a = '12';
 console.log(typeof Number(a)); 
 
